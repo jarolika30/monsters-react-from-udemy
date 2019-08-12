@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6b46888da3038bb94c1d131c1d46ca3",
+    "revision": "3b1463f475b90797e936f3fc2d928ffe",
     "url": "/monsters-react-from-udemy/index.html"
   },
   {
-    "revision": "fd215a6a8b9cf6e5c5c3",
+    "revision": "bdf842fb72827323f780",
     "url": "/monsters-react-from-udemy/static/css/main.842c9f4a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monsters-react-from-udemy/static/js/2.65aa1cca.chunk.js"
   },
   {
-    "revision": "fd215a6a8b9cf6e5c5c3",
-    "url": "/monsters-react-from-udemy/static/js/main.6fff3ea7.chunk.js"
+    "revision": "bdf842fb72827323f780",
+    "url": "/monsters-react-from-udemy/static/js/main.cd93237b.chunk.js"
   },
   {
     "revision": "a72e863c562ed6831ae1",
